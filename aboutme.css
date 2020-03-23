@@ -1,0 +1,24 @@
+body
+{
+    background-color: black;
+}
+.AfroJack
+{
+    display: table;
+}
+.bio
+{
+    display: inline-block;
+}
+#AfroSamuraiBlock
+{
+    background-color: orange;
+    width: auto;
+    height: auto;
+}
+#SamuraiJackBlock
+{
+    background-color: yellow;
+    width: auto;
+    height: auto;
+}
